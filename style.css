@@ -1,0 +1,28 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 3%;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+div {
+    border-style: dotted;
+    border-color: rgb(181, 206, 73);
+}
+
+h3:hover {
+    color: rgb(69, 133, 69);
+}
